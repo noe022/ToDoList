@@ -73,6 +73,7 @@ body{
   background-color: var(--color-coffee-bean-25);
   border: 1.5px, solid var(--color-coffee-bean-300);
   cursor: pointer;
+
 }
 
 .tasks-card {
